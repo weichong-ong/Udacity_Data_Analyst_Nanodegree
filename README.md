@@ -25,8 +25,8 @@ This project introduce us to the SQL and how to download data from a database. W
 2. [**Investigate a Dataset - Gapminder**](https://github.com/weichong-ong/Gapminder_World_Data_Analysis):
 In this project, we choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. We complete the entire data analysis process, starting by posing a question and finishing by sharing our findings.
 
-3. [**Analyze A/B Experiment Results**](https://github.com/weichong-ong/E-commerce_Website_A-B_Test_Results_Analysis):
-In this project, we are provided a dataset reflecting data collected from an experiment of a e-commerce website. We use statistical techniques to answer questions about the data and report our conclusions and recommendations in a report.
+3. [**Analyze A/B Experiment Results - E-commerce Website**](https://github.com/weichong-ong/E-commerce_Website_A-B_Test_Results_Analysis):
+In this project, we are provided a dataset reflecting data collected from an experiment. We use statistical techniques to answer questions about the data and report our conclusions and recommendations in a report.
 
 4. [**Wrangle and Analyze Data - Twitter account**](https://github.com/weichong-ong/Twitter_Account_Data_Wrangling):
 Real-world data rarely comes clean. Using Python, we gather data from a variety of sources, assess its quality and tidiness, then clean it. We document our wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
