@@ -1,4 +1,5 @@
 # Udacity_Data_Analyst_Nanodegree
+[Data Analyst Nanodegree Certificate of Completion.pdf](https://github.com/weichong-ong/Udacity_Data_Analyst_Nanodegree/files/5552286/Data.Analyst.Nanodegree.Certificate.of.Completion.pdf)
 ## Introduction
 * This program prepares us for a career as a data analyst by helping us learn to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. We are able develop proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as we build a portfolio of projects to showcase in our job search.
 * This repo contain only the courses and projects overview. Each of the projects are located in separate repositories.
