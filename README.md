@@ -1,6 +1,6 @@
 # Udacity_Data_Analyst_Nanodegree
 <p align="center">
-  <img src="/issues/1#issue-744539523" width="600" />
+  <img src="https://github.com/weichong-ong/Udacity_Data_Analyst_Nanodegree/issues/1#issue-744539523" height="400", width="600" />
 </p>
 
 ## Introduction
