@@ -35,6 +35,6 @@ In this project, we are provided a dataset reflecting data collected from an exp
 4. [**Wrangle and Analyze Data - Twitter account**](https://github.com/weichong-ong/Twitter_Account_Data_Wrangling):
 Real-world data rarely comes clean. Using Python, we gather data from a variety of sources, assess its quality and tidiness, then clean it. We document our wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
 
-5. **Communicate Data Findings**:
+5. [**Communicate Data Findings - Bike Sharing**](https://github.com/weichong-ong/Bike_Sharing_System_Data_Explanatory_Visualization):
 We use Python’s data visualization tools to systematically explore a selected dataset for its properties and relationships between variables. Then, we create a presentation that communicates our findings to others.
 
